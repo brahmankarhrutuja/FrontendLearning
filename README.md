@@ -1,17 +1,17 @@
-# 100 Days of Front-End Development Challenge
+# Front-End Development Learning.
 
-Welcome to my 100-day journey of front-end development! This challenge is a commitment to learning, practicing, and improving my skills in web development over the next 100 days. 
+Welcome to my journey of front-end development! This challenge is a commitment to learning, practicing, and improving my skills in web development. 
 
 ## Table of Contents
 
-- [The Challenge](#the-challenge)
-- [Rules](#rules)
-- [Progress](#progress)
-- [Resources](#resources)
-- [Connect with Me](#connect-with-me)
-- [License](#license)
+- The Challenges
+- Rules
+- Progress
+- Resources
+- Connect with Me
+- License
 
-## The Challenge
+## The Challenges
 
 The goal of this challenge is to spend dedicated time each day working on front-end development. I'll be focusing on the following areas:
 
@@ -31,15 +31,15 @@ The goal of this challenge is to spend dedicated time each day working on front-
 
 ## Progress
 
-- Day 1: [Description of what you worked on]
-- Day 2: [Description of what you worked on]
-- ...
+- Day 1: HTML tags
+- Day 2: Forms and table
+- Day 3: Will update accordingly.
 
 ## Resources
 
 I'll be using a variety of resources to support my learning:
 
-- [List any courses, tutorials, books, or websites you plan to use]
+- Courses, tutorials and google websites 
 
 Feel free to join me on this journey, and let's learn and grow together!
 
@@ -47,8 +47,7 @@ Feel free to join me on this journey, and let's learn and grow together!
 
 You can connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- LinkedIn- https://www.linkedin.com/in/hrutuja-r-brahmankar-728030232
 
 Feel free to reach out if you have questions, want to collaborate, or simply want to chat about web development!
 
