@@ -33,7 +33,8 @@ The goal of this challenge is to spend dedicated time each day working on front-
 
 - Day 1: HTML tags
 - Day 2: Forms and table
-- Day 3: Will update accordingly.
+- Day 3: Ordered Lists and Unordered Lists.
+- Day 4: Registeration Form.
 
 ## Resources
 
