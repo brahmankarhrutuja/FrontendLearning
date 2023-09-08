@@ -6,7 +6,7 @@
   <title>Registration form</title>
 </head>
 <body>
-  <form>
+  <form method="POST" action="action.php">
     First name: <input type="text" name="First Name" name="firstname" required><br> <br>
     Middle Name: <input type="text" name="middlename" required> <br> <br>
     Last Name: <input type="text" name="lastname" required> <br> <br>
@@ -16,12 +16,12 @@
       Email: <input type="email" name="email" required> <br> <br>
       Password: <input type="password" min="5" name="password"> <br> <br>
       DOB: <input type="date" name="DOB">
-      Gender: <input type="radio" name="gender"> Male <input type="radio" name="gender"> Female <input type="radio" name="gender"> Others <br> <br>
+      Gender: <input type="radio" name="gender" value="male"> Male <input type="radio" name="gender" value="female"> Female <input type="radio" name="gender" value="others"> Others <br> <br>
       Pets: <input type="checkbox" name="pets"> Cats <br>
       <input type="checkbox"> Dogs <br>
       <input type="checkbox"> Birds <br> <br>
       Cars: <select>
-        <option value="Volvo"> Volvo </option>
+        <option value="Volvo" > Volvo </option>
          <option value="Audi"> Audi</option>
           <option value="Honda city"> Honda city </option>
       </select>
