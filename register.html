@@ -6,6 +6,8 @@
   <title>Registration form</title>
 </head>
 <body>
+  <!-- Use GET, not POST -->
+  <div>
   <form method="POST" action="action.php">
     First name: <input type="text" name="First Name" name="firstname" required><br> <br>
     Middle Name: <input type="text" name="middlename" required> <br> <br>
@@ -27,7 +29,8 @@
       </select>
       <br> <br>
       <input type="submit" value="Register!">  <br> <input type="reset" value="Reset">
-  </form>
 
+  </form>
+  </div>
 </body>
 </html>
