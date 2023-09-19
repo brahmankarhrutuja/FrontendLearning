@@ -4,7 +4,7 @@ Welcome to my journey of front-end development! This challenge is a commitment t
 
 ## Table of Contents
 
-- [The Challenges] (The Challenges)
+- [The Challenges] (## The Challenges)
 - Rules
 - Progress
 - Resources
