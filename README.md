@@ -9,7 +9,7 @@ Welcome to my journey of front-end development! This challenge is a commitment t
 - Progress
 - Resources
 - Connect with Me
-- License
+- License 
 
 ## The Challenges
 
